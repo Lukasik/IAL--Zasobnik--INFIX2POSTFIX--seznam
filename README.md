@@ -1,7 +1,7 @@
-# IAL1 - Zásobník, INFIX -> POSTFIX, obousměrně vázaný seznam
+AL: Zásobník, INFIX2POSTFIX, obousměrně vázaný seznam
+==============
+Projekt do předmětu Algoritmy (3. semestr FIT VUT) ve stavu, v jakém byl odevzdán k hodnocení.
 
-Projekty jsou zde v takovém stavu, ve kterém jsem je odevzdával k hodnocení.
-
-## Hodnocení
-
+### Hodnocení
 10/10
+
